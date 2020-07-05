@@ -1,14 +1,5 @@
-"""
-ProfLogit: Profit maximizing logit model for customer churn
-===========================================================
-"""
+from .base import ProfLogit
 
-__author__ = 'Eugen Stripling'
-__copyright__ = 'Copyright 2017, proflogit'
-__version__ = '1.0.0'
-__credits__ = ['Eugen Stripling', ]
-__license__ = 'GPLv3'
-__maintainer__ = 'Eugen Stripling'
-__email__ = 'eugen.stripling@kuleuven.be'
-__status__ = 'Development'
-__date__ = '2017-12-15'
+__author__ = "E. Stripling"
+__email__ = "estripling042@gmail.com"
+__version__ = "1.1.0"

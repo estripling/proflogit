@@ -1,6 +1,3 @@
-# PyCharm
-.idea/
-
 # Compiled python modules
 *.pyc
 
@@ -13,6 +10,7 @@ dist/
 *.eggs
 build/
 
+venv/
 .cache
 .coverage
 .misc.txt
@@ -20,3 +18,4 @@ build/
 proflogit/__pycache__/
 tests/__pycache__/
 README.html
+notebooks/.ipynb_checkpoints/
